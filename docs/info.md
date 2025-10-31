@@ -13,6 +13,3 @@ blah
 ## How to test
 
 blah
-## External hardware
-
-none
